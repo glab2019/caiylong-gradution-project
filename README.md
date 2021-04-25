@@ -9,4 +9,5 @@
   - testRx1send为Arduino控制第一个LoRa设备的程序，另一个文件夹类似，只是逻辑稍有不同
   - parseData为处理从串口助手保存的数据程序并可视化
 - Exercise3文件夹为实验3代码
+  
   终端节点使用的是Exercise2中的Arduino代码，windows界面应用程序为Controller文件夹
